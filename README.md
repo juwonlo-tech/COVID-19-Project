@@ -48,6 +48,6 @@ The 5 models and their accuracy score are as follows:
    - K-Nearest Neighbour - 98.08%
    - Support Vector Machine - 98.14%
    
-The Random Forest is the most accurate model for predicting mortality in this instance closely followed by the decision tree. A system such as this can help health care workers to identify the patients with the highest risk of death and therefore prioritize their care. While the 98.18% accuracy looks very good, the error rate of 1.82% may be a bit a concern for the healthcare sector considering human lives are in view. 
+The Random Forest is the most accurate model for predicting mortality in this instance closely followed by the decision tree. A system such as this can help health care workers to identify the patients with the highest risk of death and therefore prioritize their care. While the 98.18% accuracy looks very good, the error rate of 1.82% may be a bit of a concern for the healthcare sector considering human lives are in view. 
 
 The jupyter notebook for this project is available on: https://github.com/juwonlo-tech/COVID-19-Project/blob/main/Covid%20Project.ipynb
